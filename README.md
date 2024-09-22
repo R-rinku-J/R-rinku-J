@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [......](.........)
 
-- 🌱 I’m currently learning **MERN, DSA**
+- 🌱 I’m currently learning **MERN, DSA and SOME MORE TECHNOLOGIES**
 
 - 👯 I’m looking to collaborate on [.........](..........)
 
